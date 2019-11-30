@@ -1,9 +1,13 @@
-## Parallel-Computing
+# Parallel-Computing
 This repository contains assignment for Parallel Computing using MPI, OpenMP and CUDA.
------ Assignmet for Parallel Computing using MPI, OpenMP and CUDA -----
+### ----- Assignmet for Parallel Computing using MPI, OpenMP and CUDA -----
 
-There are total 7 programs in this repo based on
-This is just a informal discription.
+
+## build commands:
+```
+$ git clone https://github.com/shivamHCU/Parallel-Computing.git
+$ cd src/
+```
 
 ## [1] MPI 
 1.1) MPI_bsort (Parallel Bucket Sorting Algorithm and Implement using MPI (Static Strategy).
